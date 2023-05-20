@@ -1,4 +1,4 @@
-<h1>NOTE BOOK</h1>
+<h1>NOTE BOOK</h1>📝
 
 <h3>Description</h3>
 This project is an application that can be used to write and save notes.
